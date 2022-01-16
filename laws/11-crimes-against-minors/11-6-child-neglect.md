@@ -1,4 +1,4 @@
-# \[1] 24 - Child Neglect
+# \[11] 6 - Child Neglect
 
 Child neglect is a form of child abuse, and is defined as a deficit in meeting a child's basic needs, including the failure to provide adequate supervision, health care, clothing, or housing, as well as other physical, emotional, social, educational, and safety needs.  A necessity includes things such as clothing, food, medicine and shelter alongside several other things that effect social or educational things.&#x20;
 

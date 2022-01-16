@@ -1,4 +1,4 @@
-# \[1] 26 - Entrapment
+# \[1] 25 - Entrapment
 
 It is illegal for a law enforcement officer to coerce a person to commit a crime, through great pressure or overbearing/behaviorally-dominant actions.&#x20;
 

@@ -1,4 +1,4 @@
-# \[1] 28 - Unlawful Accessing, Furnishing, or Receiving of Law Enforcement Records (Fed Charge)
+# \[1] 27 - Unlawful Accessing, Furnishing, or Receiving of Law Enforcement Records (Fed Charge)
 
 Any person authorized to receive law enforcement records or information, who then knowingly furnishes or provides the record or information to a person who is not authorized to receive the record or information is guilty of a misdemeanor.
 

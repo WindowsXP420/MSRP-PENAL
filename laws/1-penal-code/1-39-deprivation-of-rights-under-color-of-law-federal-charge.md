@@ -1,4 +1,4 @@
-# \[1] 30 - Deprivation of Rights Under Color of Law (Federal Charge)
+# \[1] 39 - Deprivation of Rights Under Color of Law (Federal Charge)
 
 It is a crime for a person acting under color of any law to willfully deprive a person of a right or privilege protected by the Constitution or laws of San Andreas.
 
