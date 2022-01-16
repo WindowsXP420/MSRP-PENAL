@@ -9,5 +9,4 @@ In the State of San Andreas attempted murder is an felony. A conviction for atte
 **Fine:** $15,000
 {% endhint %}
 
-**Note:** The defendant took at least one **direct** (but ineffective) step towards killing Law Enforcement; and the defendant intended to kill that person with whatever sort of way they attempted to with such as the examples that are going to be set below. They must not be successful to class the charge as Penal Code \[1] 3 - Harassment\
-[https://app.gitbook.com/s/7xxRtwmh68jjKlwOhCpq/c/afIm9ajDG4RSVTuaTh5W/laws/1-penal-code/1-3-harassment](../1-penal-code/1-3-harassment.md)
+**Note:** The defendant took at least one **direct** (but ineffective) step towards killing Law Enforcement; and the defendant intended to kill that person with whatever sort of way they attempted to with such as the examples that are going to be set below. They must not be successful to class the charge as Penal Code[ \[1\] 3 - Harassment](../1-penal-code/1-3-harassment.md)\
