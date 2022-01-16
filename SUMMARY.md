@@ -2,7 +2,6 @@
 
 * [Preamble](README.md)
 * [Definitions](definitions.md)
-* [Changelogs](changelogs.md)
 * [Police References](police-references.md)
 
 ## Municipal Laws
@@ -235,6 +234,13 @@
 * [Law Enforcement Authority Doctrine](legal-doctrines/law-enforcement-authority-doctrine.md)
 * [Qualified Immunity Act](legal-doctrines/qualified-immunity-act.md)
 * [Capital Punishment Doctrine](legal-doctrines/capital-punishment-doctrine.md)
+
+***
+
+* [Change logs](change-logs/README.md)
+  * [Removed Laws and doctrines](change-logs/removed-laws-and-doctrines.md)
+  * [New Laws](change-logs/new-laws.md)
+  * [Changes](change-logs/changes.md)
 
 ## Bill of rights
 
