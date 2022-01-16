@@ -7,6 +7,6 @@ Any person who lies to a government official while possessing clear knowledge th
 {% hint style="danger" %}
 **Misdemeanor** \
 \
-**Sentence:** 50 Seconds VMenu\
+**Sentence:** 50 Seconds\
 **Fine:** $500
 {% endhint %}

@@ -9,8 +9,7 @@ Using red/blue/amber lighting and/or a siren to attempt to give the impression o
 {% hint style="danger" %}
 **Felony**\
 \
-**Sentence:** 400 Seconds VMenu\
-**Sentence:** 60 Minutes Economy\
+**Sentence:** 400 Seconds\
 **Fine:** $4000&#x20;
 {% endhint %}
 

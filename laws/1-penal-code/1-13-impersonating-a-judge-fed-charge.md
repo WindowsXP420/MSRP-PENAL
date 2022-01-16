@@ -5,7 +5,6 @@ Any person who willfully wears, exhibits, or uses the authorized uniform, insign
 {% hint style="danger" %}
 **Felony**\
 \
-**Sentence:** 600 Seconds VMenu\
-**Sentence:** 60 Minutes Economy\
+**Sentence:** 600 Seconds\
 **Fine:** $5000
 {% endhint %}

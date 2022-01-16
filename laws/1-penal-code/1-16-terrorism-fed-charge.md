@@ -9,8 +9,7 @@ Attempting to or successfully inhibiting national security operations or intelli
 {% hint style="danger" %}
 **Felony**\
 \
-**Sentence:** 1000 Seconds VMenu\
-**Sentence:** 240 Minutes Economy\
+**Sentence:** 1000 Seconds\
 **Fine:** $500,000
 {% endhint %}
 

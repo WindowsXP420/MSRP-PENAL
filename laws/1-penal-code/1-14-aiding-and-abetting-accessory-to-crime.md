@@ -11,8 +11,7 @@ This law does **not** include the act of Conspiracy, which is a separate crime, 
 {% hint style="danger" %}
 **Misdemeanor**
 
-**Sentence:** 100 Seconds VMenu\
-**Sentence:** 5 Minutes Economy\
+**Sentence:** 100 Seconds \
 **Fine:** $1000
 {% endhint %}
 

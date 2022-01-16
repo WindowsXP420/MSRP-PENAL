@@ -5,8 +5,7 @@ Criminal Threats becomes a crime when one threatens to kill or physically harm a
 {% hint style="danger" %}
 **Misdemeanor**\
 \
-**Sentence:** 30 Seconds VMenu\
-**Sentence:** 10 Minutes Economy\
+**Sentence:** 30 Seconds\
 **Fine:** $500
 {% endhint %}
 

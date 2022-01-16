@@ -5,6 +5,6 @@ To say, tweet, post online, or planning any threats against an active elected of
 {% hint style="danger" %}
 **Felony**\
 \
-**Sentence:** 500 Seconds VMenu\
+**Sentence:** 500 Seconds\
 **Fine:** $5000
 {% endhint %}
