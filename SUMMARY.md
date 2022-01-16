@@ -12,7 +12,7 @@
 
 ## Laws
 
-* [\[1\] Penal Code](laws/1-penal-code/README.md)
+* [\[1\] Penal Code](laws/1-penal-code.md)
   * [\[1\] 1 - Resisting Arrest](laws/1-penal-code/1-1-resisting-arrest.md)
   * [\[1\] 2 - Disobeying a Police Officer](laws/1-penal-code/1-2-disobeying-a-police-officer.md)
   * [\[1\] 3 - Harassment](laws/1-penal-code/1-3-harassment.md)
