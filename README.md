@@ -21,7 +21,7 @@ For the creation of a document that ensures the safety of the people of Florida 
 
 **Citing the Code**
 
-For consistency and to allow ease of understanding, please refer to penal codes entries in one of three ways:
+For consistency and to allow ease of understanding, please refer to penal code's entries in one of three ways:
 
 1. With the full title, prefix first. For example, _\[1] 1 - Vehicle Manslaughter._
 2. With the prefix. For example, _\[1] 1 or \[1] 2_.
