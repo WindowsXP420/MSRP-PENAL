@@ -9,7 +9,7 @@ description: >-
 &#x20;**Impersonation of Police vs Vehicle Flashing Colored Lights and Sirens Law**
 
 Illegally Using Lights & Sirens while driving/to avoid traffic/to avoid traffic signals/signs: **Vehicle Flashing Colored Lights and Sirens Law**\
-****Illegally Using Lights & Sirens and trying to or successfully pulling over another motorist: **Impersonation of Police & \[3] 42 Vehicle Flashing Colored Lights and Sirens Law**\
+****Illegally Using Lights & Sirens and trying to or successfully pulling over another motorist: **Impersonation of Police &**[ **\[3\] 42 Vehicle Flashing Colored Lights and Sirens Law**](laws/3-vehicle-code/3-42-vehicle-flashing-colored-lights-and-sirens.md)****\
 ****Using Police Emblems, Logos, Insignias, Badges in an unlawful capacity: **Impersonation of Police**
 
 **Resisting vs Evading an Officer vs Reckless Evading**
