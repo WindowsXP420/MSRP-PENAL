@@ -6,8 +6,8 @@
 
 ## Municipal Laws
 
-* [Blaine County Municipal Code](municipal-laws/blaine-county-municipal-code.md)
-* [Los Santos Municipal Code](municipal-laws/los-santos-municipal-code.md)
+* [Ozark County Municipal Code](municipal-laws/blaine-county-municipal-code.md)
+* [St. Louis County Municipal Code](municipal-laws/los-santos-municipal-code.md)
 
 ## Laws
 
@@ -195,7 +195,7 @@
   * [\[9\] 4 - Poaching](laws/9-fish-and-game-code/9-4-poaching.md)
 * [\[10\] Maritime and Vessel Navigation Code](laws/10-maritime-and-vessel-navigation-code.md)
   * [\[10\] 1 - Boating Under the Influence](laws/10-maritime-and-vessel-navigation-code/10-1-boating-under-the-influence.md)
-  * [To captain a mechanically powered boat or sea vessel:  Through congested vessel traffic in a manner](laws/10-maritime-and-vessel-navigation-code/to-captain-a-mechanically-powered-boat-or-sea-vessel-through-congested-vessel-traffic-in-a-manner.md)
+  * [To captain a mechanically powered boat or sea vessel: Through congested vessel traffic in a manner](laws/10-maritime-and-vessel-navigation-code/to-captain-a-mechanically-powered-boat-or-sea-vessel-through-congested-vessel-traffic-in-a-manner.md)
   * [\[10\] 3 - Boating without a License](laws/10-maritime-and-vessel-navigation-code/10-3-boating-without-a-license.md)
   * [\[10\] 4 - Onboard Vessel Safety Equipment Requirement](laws/10-maritime-and-vessel-navigation-code/10-4-onboard-vessel-safety-equipment-requirement.md)
   * [\[10\] 5 - Mooring to Navigational Markers or Buoys](laws/10-maritime-and-vessel-navigation-code/10-5-mooring-to-navigational-markers-or-buoys.md)
